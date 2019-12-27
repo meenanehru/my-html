@@ -1,0 +1,28 @@
+
+/*------------------------------MeriendaOne---------------------------------------------*/
+@font-face
+{
+    font-family: MeriendaOne;
+    src:url('../fonts/Merienda_One/MeriendaOne-Regular.ttf')
+}
+/*------------x----------------MeriendaOne-------------------x----------------*/
+
+/*----------------------------DavidLibre-----------------------------------*/
+@font-face
+{
+    font-family: DavidLibre;
+    src:url('../fonts/David_Libre/DavidLibre-Regular.ttf')
+}
+/*---------------x-------------DavidLibre-------------------x----------------*/
+@font-face{
+    font-family: patuaone;
+    src: url('../fonts/Patua_One/PatuaOne-Regular.ttf');
+}
+@font-face{
+    font-family: alegreya;
+   src: url('../fonts/Alegreya/Alegreya-Regular.ttf');
+}
+@font-face{
+    font-family: dosis;
+    src: url('../fonts/Dosis/Dosis-VariableFont_wght.ttf');
+}
