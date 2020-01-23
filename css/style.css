@@ -196,6 +196,10 @@ main .site-title .btn:hover{
             margin: 3rem 2rem;
             box-shadow: 0 15px 20px rgba(0,0,0,0.2);
         }
+      main .blog-post .blog-content > img
+      {
+        height:200px;
+       }
        main .blog-post .blog-title
         {
             padding: 2rem 0;
