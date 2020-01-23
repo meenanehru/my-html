@@ -431,6 +431,11 @@ footer .footer .move-up span:hover{
     color: var(--white);
     cursor: pointer;
 }
+footer p
+{
+    color:gray;
+}
+
 /* <!-- -------x-----------------Footer--------x------------------------- --> */
 
 /* <!----------------- less than or equal to 1130px---------------------------> */
